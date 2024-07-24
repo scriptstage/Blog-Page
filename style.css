@@ -1,0 +1,217 @@
+*{
+    font-family: 'Encode Sans Condensed';
+    background-color: rgb(3, 41, 41);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar a{
+    text-decoration: none;
+    display: inline-block;
+    padding-left: 30px;
+    background-color: rgb(3, 41, 41);
+    color: snow;
+}
+
+.navbar a h1{
+       text-transform: uppercase;
+       text-decoration: none;
+       word-spacing: 2px;
+       color: snow;
+       padding-left: 50px ;
+}
+
+.box{
+    background-color:  rgb(4, 82, 82);
+    height: 70%;
+    width: 100%;
+}
+
+.box img{
+    border: 10px solid snow;
+    margin-left: 20%;
+    margin-top: 50px;
+    margin-bottom: -50px;
+    width: 60%;
+    height: 50%;
+}   
+
+.box2{
+    padding-top: 10%;
+    padding-left: 8px;
+    width: 100%;
+    height: 200%;
+    background-color: rgb(214, 214, 214);
+    padding-bottom: 4%;
+}
+.box2 img{
+    border: 7px solid snow;
+    margin-left: 7%;
+    cursor: pointer;
+}
+
+.div1{
+    width: 14%;
+    height: 18%;
+    margin-top: 4px;
+    margin-left: 7.4%;
+}
+
+.div1 h3{
+    color:  rgb(4, 82, 82);
+    background-color: rgb(214, 214, 214);
+    text-align: center;
+}
+
+.div1 p{
+    background-color: rgb(214, 214, 214);
+    padding-top: 2px;
+    text-align: center;
+    display: inline-block;
+}
+
+.div2{
+    width: 14%;
+    height: 18%;
+    margin-top: -20%;
+    margin-left: 30%;
+}
+
+.div2 h3{
+    color:  rgb(4, 82, 82);
+    background-color: rgb(214, 214, 214);
+    text-align: center;
+}
+
+.div2 p{
+    background-color: rgb(214, 214, 214);
+    padding-top: 2px;
+    text-align: center;
+    display: inline-block;
+}
+
+.div3{
+    width: 14%;
+    height: 18%;
+    margin-top: -20%;
+    margin-left: 52%;
+}
+
+.div3 h3{
+    color:  rgb(4, 82, 82);
+    background-color: rgb(214, 214, 214);
+    text-align: center;
+}
+
+.div3 p{
+    background-color: rgb(214, 214, 214);
+    padding-top: 2px;
+    text-align: center;
+    display: inline-block;
+}
+
+.div4{
+    width: 14%;
+    height: 18%;
+    margin-top: -20%;
+    margin-left: 74%;
+}
+
+.div4 h3{
+    color:  rgb(4, 82, 82);
+    background-color: rgb(214, 214, 214);
+    text-align: center;
+}
+
+.div4 p{
+    background-color: rgb(214, 214, 214);
+    padding-top: 2px;
+    text-align: center;
+    display: inline-block;
+}
+
+.about{
+ margin-top: 5%;
+ color: snow;
+ background-color: rgb(4, 82, 82);
+ padding-left: 0;
+ background-size: cover;
+}
+
+.about img{
+    height: 15%;
+    width: 15%;
+    border: 5px solid rgb(3, 41, 41) ;
+    margin-left: 2%;
+    margin-top: -5%;
+    margin-bottom: 8px;
+}
+
+.about h2{
+    background-color: rgb(4, 82, 82);
+    padding-top: 20px;
+    padding-left: 3%;
+    text-transform: capitalize;
+}
+
+.about p{
+    background-color: rgb(4, 82, 82);
+    height: 15px;
+    width: 25%;
+    text-align: justify;
+    margin-top: 5%;
+    margin-left: 18%;
+}
+
+.testimonials{
+    background-color: rgb(4, 82, 82);
+}
+
+.testimonials h2{
+text-align: left;
+    background-color: rgb(4, 82, 82);
+    padding-bottom: 10px;
+    color: snow;
+    padding-right: 3%;
+    padding-top: -20%;
+    height: 10%;
+    width: 5%;
+    padding-left: 3%;
+}
+
+.testimonials p{
+    background-color: rgb(4, 82, 82);
+    color: snow;   
+    padding-left: 4%;
+}
+
+.testimonials img{
+    margin-top: 15px;
+    border: none;
+    height: 15%;
+    width: 15%;
+    border: 5px solid rgb(3, 41, 41);
+    margin-left: 2%;
+    margin-bottom: 15px;
+}   
+
+.p1{
+    background-color: rgb(4, 82, 82);
+    height: 15px;
+    width: 25%;
+    text-align: justify;
+    margin-top: -15%;
+    padding-bottom: 16%;
+    margin-left: 14%;
+}
+
+.icons{
+    color: snow;
+}
+
+.icons p{
+    text-align: center;
+    padding-top: 5px;
+}
